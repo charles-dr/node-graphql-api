@@ -1,0 +1,310 @@
+{
+	"app": {
+	  "name": "streambliss"
+	},
+	"common": {
+	  "button": {
+		"clearFilter": "Clear Filter",
+		"categories": "CATEGORIES",
+		"applyFilter": "APPLY FILTER",
+		"advanceFilters": "ADVANCE FILTERS",
+		"manageProfile": "MANAGE PROFILE",
+		"browseAllProducts": "BROWSE ALL PRODUCTS",
+		"browseAllStreams": "BROWSE ALL STREAMERS",
+		"confirmAllChanges": "confirm all changes",
+		"cancelAllChanges": "cancel all changes",
+		"browseAll": "BROWSE ALL",
+		"save": "SAVE",
+		"next": "NEXT",
+		"back": "BACK"
+	  },
+	  "label": {
+		"follow": "FOLLOW",
+		"followers": "Followers",
+		"following": "Following",
+		"oneMoment": "One moment...",
+		"loading": "Loading"
+	  }
+	},
+	
+	"drawMenu": {
+	  "profile": "Profile",
+	  "buyerDashboard": "Buyer Dashboard",
+	  "orders": "Orders",
+	  "sellerDashboard": "Seller Dashboard",
+	  "manageProducts": "Manage Products",
+	  "manageSellerInfo": "Manage Seller Info",
+	  "settings": "Settings",
+	  "termsConditions": "Terms & Conditions",
+	  "customerService": "Customer Service",
+	  "logout": "Log Out"
+	},
+	"bottomTabMenu": {
+	  "liveShopping": "Live Shopping",
+	  "products": "Products",
+	  "getLive": "Get Live",
+	  "events": "Events",
+	  "wholeSellers": "Whole Sellers"
+	},
+  
+	"liveFilterTitle": {
+	  "categories": "Categories",
+	  "sortBy": "Sort By"
+	},
+	"profileBtn": {
+	  "profile": "Profile"
+	},
+	"categoryFilterScreen": {},
+	"sortFilterModal": {
+	  "sortBy": "Sort By",
+	  "featured": "Featured",
+	  "priceLowToHigh": "Price low to high",
+	  "priceHighToLow": "Price high to low",
+	  "bestRating": "Best Rating"
+	},
+	"productFilterTitle": {
+	  "categories": "Categories",
+	  "advanceFilters": "Advance Filters",
+	  "sortBy": "Sort By"
+	},
+	"advanceFilterScreen": {
+	  "price": "Price",
+	  "priceScope": "Price Scope",
+	  "brands": "Brands",
+	  "selectBrand": "Select Brand"
+	},
+	"addressSection": {
+	  "enterYourLocationBelow": "Enter your location below.",
+	  "useCurrentLocationAddress": "Use Current Location' s Address",
+	  "enterLocation": "Enter Location",
+	  "country": "Country",
+	  "state": "State",
+	  "city": "City",
+	  "street": "Street",
+	  "zipCode": "Zipcode",
+	  "addThisAddressAsMyBillingAddress": "Add this address as my billing address."
+	},
+	"productDetailScreen": {
+	  "productSection": {
+		"description": "Description: "
+	  },
+	  "shipSection": {
+		"selectType": "Select Type",
+		"selectQuantity": "Select Quantity",
+		"productPrice": "Product Price",
+		"total": "Total",
+		"buyNow": "BUY NOW",
+		"shippingAddress": "Shipping Address",
+		"billingAddress": "Billing Address",
+  
+		"sameAsShippingAddress": "Same as Shipping Address"
+	  }
+	},
+	"productCartsScreen": {
+	  "shipAddressSection": {
+		"shippingAddress": "Shipping Address"
+	  },
+	  "billingAddressSection": {
+		"billingAddress": "Billing Address"
+	  },
+	  "cartSection": {
+		"itemsInCart": "Items in Cart"
+	  },
+	  "shipSection": {
+		"totalPayment": "Total payment",
+		"itemsTotal": "Items Total",
+		"totalShipping": "Total Shipping",
+		"total": "Total"
+	  }
+	},
+	"paymentOptionScreen": {
+	  "creditDebitCards": "Credit & Debit Cards",
+	  "transactionFeeMayApply": "Transaction fee may apply",
+	  "payWith": "Pay with",
+	  "addNewPaymentMethod": "Add New Payment Method",
+	  "payWithPaypal": "Pay with Paypal"
+	},
+	"profileScreen": {
+	  "currentProfilePicture": "Current Profile Picture",
+	  "currentFullName": "Current Full Name*",
+	  "currentPhoneNumber": "Current Phone Number",
+	  "currentLocation": "Current Location*",
+	  "shippingAddress": "Shipping Address*",
+	  "address": "Address*",
+	  "addressSection": {
+		"enterYourLocationBelow": "Enter your location below.",
+		"enterYourAddressBelow": "Enter your address below.",
+		"useCurrentLocationAddress": "Use Current Location' s Address",
+		"enterLocation": "Enter Location",
+		"fullName": "Full Name",
+		"country": "Country",
+		"address1": "Address Line 1",
+		"address2": "Address Line 2",
+		"state": "State",
+		"city": "City",
+		"street": "Street",
+		"zipCode": "Zipcode",
+		"addThisAddressAsMyBillingAddress": "Add this address as my billing address."
+	  },
+	  "fullNameSection": {
+		"noneEnterYourFullNameBelow": "None. enter your full name below.",
+		"firstName": "First Name",
+		"lastName": "Last Name",
+		"displayName": "Display Name"
+	  },
+	  "phoneNumberSection": {
+		"EnterYourPhoneNumberBelow": "Enter your phone number below."
+	  },
+	  "photoSection": {
+		"selectAvatar": "Select Avatar",
+		"pleaseChooseAProfileImage": "please choose a profile image"
+	  }
+	},
+	"settingsScreen": {
+	  "settings": "SETTINGS",
+	  "pushNotifications": "Push Notifications",
+	  "currentLanguage": "Current Language",
+	  "currentCurrency": "Current Currency",
+	  "currentMeasuringSystem": "Current Measuring System",
+	  "pushNotiSection": {
+		"chats": "Chats",
+		"orders": "Orders",
+		"profile": "Profile"
+	  },
+	  "currencySection": {},
+	  "measureSYSSection": {},
+	  "languageSection": {}
+	},
+	"sellerDashboardScreen": {
+	  "sellerDashboard": "SELLER DASHBOARD",
+	  "manageSellerInfoTab": {
+		"shippingCourierInfo": "Shipping Courier Info*",
+		"courierInfoSection": {
+		  "subTitle": "This section is for adding products one by one manually and can work perfectly for Casual Sellers. If you are a Professional Seller and need to add products in bulk please contact Customer Service.",
+		  "domesticItem": "My products are only available for domestic buyers",
+		  "internationalItem": "My products are available for domestic and international buyers",
+		  "internationalShippingOptions": "International Shipping Options",
+		  "domesticShippingOptions": "Domestic Shipping Options",
+		  "useCustomCarrier": "Use Custom Carrier",
+		  "customCarrierName": "Custom Carrier Name"
+		},
+		"AddressSection": {}
+	  },
+	  "manageProductsTab": {
+		"addNewProduct": "+ Add New Product"
+	  }
+	},
+	"termsAndConditionsScreen": {
+	  "acceptibleUsePolicy": "Acceptible Use Policy",
+	  "advertisingPolicy": "Advertising Policy",
+	  "animalsPolicy": "Animals Policy",
+	  "antidiscriminationPolicy": "Antidiscrimination Policy",
+	  "brandsPolicy": "Brands  Policy",
+	  "cancellationsOnOrdersPolicy": "Cancellations on orders Policy",
+	  "cancellationsPolicy": "Cancellations Policy",
+	  "codeOfConductPolicy": "Code of Conduct Policy",
+	  "communicationPolicy": "Communication Policy",
+	  "connectServiceRefundPolicy": "Connect Service Refund Policy",
+	  "cookiePolicy": "Cookie Policy",
+	  "copyrightPolicy": "Copyright Policy",
+	  "createAccountPolicy": "Create Account Policy",
+	  "dataRequestPolicy": "Data Request Policy",
+	  "deliveriesPolicy": "Deliveries Policy",
+	  "deliveries": "Deliveries",
+	  "eula": "EULA",
+	  "feedbackPolicy": "Feedback Policy",
+	  "firearmsPolicy": "Firearms Policy",
+	  "fraudPolicy": "Fraud Policy",
+	  "hackedFakeAccountPolicyodt": "Hacked Fake Account. Policyodt",
+	  "helpCenterPolicy": "Help Center. Policy",
+	  "intellectualPropertyRightsComplaintsPolicy": "Intellectual Property Rights Complaints Policy",
+	  "limitsOfLiabilityPolicy": "Limits of liability Policy",
+	  "newFeesPolicy": "New Fees Policy",
+	  "pricingPolicy": "Pricing Policy",
+	  "privacyPolicy": "Privacy Policy",
+	  "productsReturnPolicy": "Products Return Policy",
+	  "productListingPolicy": "Product listing policy",
+	  "promotionPolicy": "Promotion Policy",
+	  "promotionTermsAndConditions": "Promotion Terms and Conditions",
+	  "refundPolicy": "Refund Policy",
+	  "reportAbuse": "Report Abuse",
+	  "rules": "Rules",
+	  "safety": "Safety",
+	  "socialPagesTerms": "Social Pages Terms",
+	  "suspiciousMessages": "Suspicious Messages",
+	  "termsOfServices": "Terms of Services",
+	  "termsOfUse": "Terms of Use",
+	  "tips": "Tips",
+	  "tradeRules": "Trade Rules",
+	  "userGeneratedContent": "User Generated Content",
+	  "websiteResponsibleDisclosure": "WEBSITE RESPONSIBLE DISCLOSURE",
+	  "zeroTolerance": "Zero Tolerance"
+	},
+	"streamerProfileScreen": {
+	  "liveStreams": "Live Streams",
+	  "products": "Products",
+	  "streamListTab": {},
+	  "productsListTab": {},
+	  "profileInfo": {}
+	},
+	"authScreen": {
+	  "signInTitle": "Sign In!",
+	  "signUpTitle": "Sign Up!",
+	  "email": "Email",
+	  "wrongEmail": "Wrong Email",
+	  "password": "Password",
+	  "passwordConfirm": "Password Confirm",
+	  "passwordConfirmError": "Password and repeat password must be the same",
+	  "passwordLengthError": "Password must contain at least 6 letters",
+	  "forgotPassword": "Forgot Password?",
+	  "rememberMe": "Remember Me",
+	  "agreeTerm": "I AGREE WITH TERMS & CONDITIONS*",
+	  "signIn": "Sign In",
+	  "signUp": "Sign Up",
+	  "orSignWith": "Or Sign With",
+	  "dontHaveAnAccount": "Don't have an Account?",
+	  "orSignUpWith": "Or SignUp With",
+	  "imAlreadyOnStreamBliss": "I 'm Already on StreamBliss",
+	  "resetMyPassword": "RESET MY PASSWORD",
+	  "enterCodeSentToYourEmail": "Enter Code Sent To Your Email",
+	  "codeIsEmpty": "Code is Empty",
+	  "enterNewPassword": "Enter New Password",
+	  "confirmNewPassword": "Confirm New Password",
+	  "passwordReset": "Password Reset",
+	  "resetAuthDescription": "Please Enter your email here and we will send \n you the instruction to reset your password."
+	},
+	"ProductAdditionScreen": {
+	  "productDetails": "Product Details",
+	  "productAssets": "Add product images or videos",
+	  "shippingSpec": "Shipping Specifications",
+  
+	  "productAssetSection": {},
+	  "productDetailSection": {
+		"productName": "Product Name*",
+		"productBrand": "Product Brand*",
+		"productDescription": "Product Description*",
+		"productCategory": "Product Category*",
+		"price": "Price*",
+		"discount": "Discount*",
+		"availableQuantity": "Available Quantity*",
+		"currency": "Currency*"
+	  },
+	  "shippingSpecSection": {
+		"label": "Label",
+		"width": "Width",
+		"height": "Height",
+		"length": "Length",
+		"weight": "Weight",
+		"customCarrier": "Custom Carrier",
+		"customCarrierValue": "Custom Carrier Value"
+	  }
+	},
+	"liveStreamInfoScreen": {
+	  "titleLiveStream": "Title of your live stream *",
+	  "addCoverPhoto": "Add a cover photo *",
+	  "liveStreamExperience": "Live Stream Experience*",
+	  "liveStreamCategory": "Live Stream Category*",
+	  "liveProduct": "Live Product*"
+	}
+  }
+  

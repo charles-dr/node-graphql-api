@@ -1,0 +1,361 @@
+[{
+  "_id": "5542f3f4-9de6-4b02-90d4-8afaecb33e1e",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/adidas_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/adidas_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "adidas_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.583Z"
+  },
+  "__v": 0
+},{
+  "_id": "02aa807d-c6ae-4dc7-9cbb-cf7c6453bdda",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/burberry_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/burberry_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "burberry_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.594Z"
+  },
+  "__v": 0
+},{
+  "_id": "4c4ff01d-9825-4189-aac5-754e9c2f59a4",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/gucci_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/gucci_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "gucci_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.594Z"
+  },
+  "__v": 0
+},{
+  "_id": "2cc540eb-6338-4ca1-9895-6ca7cf2b8a27",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/coach_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/coach_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "coach_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.594Z"
+  },
+  "__v": 0
+},{
+  "_id": "76813b40-1336-43d4-ac93-511761461a03",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/diesel_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/diesel_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "diesel_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.594Z"
+  },
+  "__v": 0
+},{
+  "_id": "227e6040-2c81-4ab0-820b-b9c9228feb9f",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/crocs_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/crocs_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "crocs_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.594Z"
+  },
+  "__v": 0
+},{
+  "_id": "2c07a52f-859f-43cc-b90c-455a401fd37d",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/giorgio armani_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/giorgio armani_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "giorgio armani_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.601Z"
+  },
+  "__v": 0
+},{
+  "_id": "ffbaae15-f942-4788-a203-353c50ba18c3",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/cartier_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/cartier_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "cartier_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.601Z"
+  },
+  "__v": 0
+},{
+  "_id": "1d07fb03-85f5-4b2f-b042-3ac50fc6e3bf",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/dior_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/dior_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "dior_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.602Z"
+  },
+  "__v": 0
+},{
+  "_id": "b61c0395-5f3a-41c7-826d-00c32dcefb3f",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/bcbgeneration_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/bcbgeneration_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "bcbgeneration_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.602Z"
+  },
+  "__v": 0
+},{
+  "_id": "6e00930b-8e30-4fe2-aaa4-feeba1744da5",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/hugo boss_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/hugo boss_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "hugo boss_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.602Z"
+  },
+  "__v": 0
+},{
+  "_id": "947ac178-537b-41f0-964f-8204750ec804",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/kate spade_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/kate spade_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "kate spade_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.602Z"
+  },
+  "__v": 0
+},{
+  "_id": "51ea5865-712b-4705-8e9e-55bad754d085",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/levis_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/levis_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "levis_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.602Z"
+  },
+  "__v": 0
+},{
+  "_id": "4ca448b5-5085-4728-9157-3e4da145da19",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/louis vuitton_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/louis vuitton_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "louis vuitton_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.603Z"
+  },
+  "__v": 0
+},{
+  "_id": "654017b6-24d2-47a8-bfd1-58c59d00a956",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/marc jacobs_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/marc jacobs_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "marc jacobs_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.603Z"
+  },
+  "__v": 0
+},{
+  "_id": "18235eb0-7abd-454c-a2f5-45d8e1e9f79c",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/michael kors_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/michael kors_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "michael kors_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.611Z"
+  },
+  "__v": 0
+},{
+  "_id": "180248c3-c1c8-49cc-ae55-5c5a27fac0ab",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/nike_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/nike_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "nike_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.611Z"
+  },
+  "__v": 0
+},{
+  "_id": "27bdc049-4f18-403f-8b52-f70c1e2930fd",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/prada_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/prada_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "prada_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.611Z"
+  },
+  "__v": 0
+},{
+  "_id": "90404bda-3083-4448-8abd-7c3109f6454e",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/ralph lauren_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/ralph lauren_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "ralph lauren_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.612Z"
+  },
+  "__v": 0
+},{
+  "_id": "d2358ad8-ac05-4322-8581-556b2a111da1",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/roberto cavalli_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/roberto cavalli_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "roberto cavalli_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.612Z"
+  },
+  "__v": 0
+},{
+  "_id": "f01556cf-465f-4d7a-b1c5-6690555b86d0",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/salvatore ferragamo_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/salvatore ferragamo_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "salvatore ferragamo_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.612Z"
+  },
+  "__v": 0
+},{
+  "_id": "df42be22-9853-49ff-a84f-86100bec60d6",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/swarovski_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/swarovski_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "swarovski_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.612Z"
+  },
+  "__v": 0
+},{
+  "_id": "dcc94f0f-7211-438b-ae64-9d7c6a25ba35",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/valentino_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/valentino_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "valentino_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.613Z"
+  },
+  "__v": 0
+},{
+  "_id": "90676908-1872-4fcc-92b5-aad6e44ca1c0",
+  "status": "UPLOADED",
+  "forPreview": false,
+  "owner": "50202f78-99e8-41b4-b7b3-258728aa7350",
+  "path": "brands-210421/versace_logo.png",
+  "url": "https://cdn-stage.shoclef.com/brands-210421/versace_logo.png",
+  "type": "IMAGE",
+  "size": 100,
+  "mimetype": "image/png",
+  "filename": "versace_logo.png",
+  "createdAt": {
+    "$date": "2021-04-21T14:27:20.613Z"
+  },
+  "__v": 0
+}]

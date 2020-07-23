@@ -1,0 +1,11 @@
+[
+  {
+    "liveStreamCategory": null, "_id": "40dcea32-8946-411b-9ebb-6c609602c579", "order": 1, "imgFile": "clothing.jpg", "category": "Clothing", "subCategory": null, "subSubCategory": null
+  },
+  {
+    "liveStreamCategory": null, "_id": "559f46de-779f-4751-9235-d9d47a2b87a4", "imgFile": "accessories.jpg", "category": "Clothing", "subCategory": "Accessories", "subSubCategory": null
+  },
+  {
+    "liveStreamCategory": null, "_id": "80db2cf0-f525-4c86-8e1d-1a88749871c6", "order": 14, "imgFile": "garden-outdoors.jpg", "category": "Garden & Outdoors", "subCategory": null, "subSubCategory": null
+  }
+]

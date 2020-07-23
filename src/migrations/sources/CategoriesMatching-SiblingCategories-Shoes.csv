@@ -1,0 +1,71 @@
+_id,sibling_id_category,name,parent_category (for reference only),level
+1e771e37-0c8e-459a-8dd6-5c37774ef8d7,dff753a1-b0e9-4bd9-9f0f-4bcb06f427fa,Women Shoes,Women Fashion,2
+c394733d-8727-4e58-ad86-21062de9ac6f,5be39986-85e4-4dc9-a7f8-41b5ed0d486e,Men Shoes,Men Fashion,2
+04ffad2f-986f-4440-8cf5-f1511fc10dfa,5f3c4b54619bc748230068e8,Children Shoes,Kids Fashion,2
+5f3c4b54619bc74823006772,b2cd97ce-9e4c-48f9-9eae-352366fb4a2d,Booties,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc74823006773,a5c5e3d9-0cd1-49fb-9996-404a462e2c60,Boots,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc74823006774,d4e53814-d59e-46cb-8f7d-fb957a859478,Flats,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc74823006775,e9f8d559-6dad-438b-aa7a-43bd8e9fb923,Heels,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc74823006776,c8b602ba-ddde-4e94-8b4f-0be0f1608e86,Mules,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc74823006777,b5f039ac-7d04-4230-8ef1-ab74318f6945,Pumps,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc74823006778,aa18c35d-7f72-499a-897b-b4d6beef3cb8,Sandals,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc74823006779,ed311f29-5b13-439b-8f1e-0d3b5a8aa61c,Slippers,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc7482300677a,a325532b-39ec-468f-9a7f-cc1dc40791ca,Sneakers,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc7482300677b,223d8547-5d6d-4b48-a4b4-291f59ac17e8,Wedges,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc7482300677c,799c73ac-8b0d-41cc-a92f-f210d2dca5da,Running Shoes,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc7482300677d,bd540922-bbb9-4e58-b1aa-e1f684f3db95,Clogs,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc7482300677e,81b17bd3-ce8f-4d9e-a090-b98499ba0724,Hiking,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc7482300677f,bc109bd3-9add-4868-b3f7-7dc902a88c5a,Waterproof,Women Shoes ==> Women Fashion,3
+5f3c4b54619bc748230067c5,4c2168b6-ab2b-4d26-ae34-6e49d2d56b00,Boat Shoes,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067c6,f17f9590-6283-407e-a0db-d71e25f05d94,Boots,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067c7,4570255e-c9ec-4013-88c5-a7348a1cb4be,Casual Shoes,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067c8,df97d158-8a16-4e32-a1a9-5a777ec9516a,Chukkas,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067c9,f6fd059e-f961-4b21-914c-389a98e1da66,Comfort,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067ca,559f46de-779f-4751-9235-d9d47a2b87a4,Dress Shoes,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067cb,28e0c853-4383-4a66-96e2-3c5e04e7d803,Drivers,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067cc,e62519ce-a590-4b04-be9d-3e3d07aedd82,Loafers,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067cd,b0d3a823-c747-425e-aea3-c9cb71a3bd64,Oxfords,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067ce,88b4755a-8cb8-4a63-842d-5b591324d487,Sandals,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067cf,88b4755a-8cb8-4a63-842d-5b591324d488,Slides,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067d0,88b4755a-8cb8-4a63-842d-5b591324d489,Slip On,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067d1,88b4755a-8cb8-4a63-842d-5b591324d490,Slippers,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067d2,88b4755a-8cb8-4a63-842d-5b591324d491,Sneakers,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067d3,88b4755a-8cb8-4a63-842d-5b591324d492,Waterproof,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067d4,88b4755a-8cb8-4a63-842d-5b591324d493,Wing Tip Shoes,Men Shoes --> Men Fashion,3
+5f3c4b54619bc748230067e9,88b4755a-8cb8-4a63-842d-5b591324d494,Girls Shoes,Children Shoes --> Kids Fashion,3
+5f3c4b54619bc748230067ea,88b4755a-8cb8-4a63-842d-5b591324d495,Boys Shoes,Children Shoes --> Kids Fashion,3
+dff753a1-b0e9-4bd9-9f0f-4bcb06f427fa,1e771e37-0c8e-459a-8dd6-5c37774ef8d7,Women Shoes,Women Shoes --> Footwear,2
+5be39986-85e4-4dc9-a7f8-41b5ed0d486e,c394733d-8727-4e58-ad86-21062de9ac6f,Men Shoes,Men Shoes --> Footwear,2
+5f3c4b54619bc748230068e8,04ffad2f-986f-4440-8cf5-f1511fc10dfa,Kids Shoes,Kids Shoes --> Footwear,2
+b2cd97ce-9e4c-48f9-9eae-352366fb4a2d,5f3c4b54619bc74823006772,Booties,Women Shoes --> Footwear,3
+a5c5e3d9-0cd1-49fb-9996-404a462e2c60,5f3c4b54619bc74823006773,Boots,Women Shoes --> Footwear,3
+d4e53814-d59e-46cb-8f7d-fb957a859478,5f3c4b54619bc74823006774,Flats,Women Shoes --> Footwear,3
+e9f8d559-6dad-438b-aa7a-43bd8e9fb923,5f3c4b54619bc74823006775,Heels,Women Shoes --> Footwear,3
+c8b602ba-ddde-4e94-8b4f-0be0f1608e86,5f3c4b54619bc74823006776,Mules,Women Shoes --> Footwear,3
+b5f039ac-7d04-4230-8ef1-ab74318f6945,5f3c4b54619bc74823006777,Pumps,Women Shoes --> Footwear,3
+aa18c35d-7f72-499a-897b-b4d6beef3cb8,5f3c4b54619bc74823006778,Sandals,Women Shoes --> Footwear,3
+ed311f29-5b13-439b-8f1e-0d3b5a8aa61c,5f3c4b54619bc74823006779,Slippers,Women Shoes --> Footwear,3
+a325532b-39ec-468f-9a7f-cc1dc40791ca,5f3c4b54619bc7482300677a,Sneakers,Women Shoes --> Footwear,3
+223d8547-5d6d-4b48-a4b4-291f59ac17e8,5f3c4b54619bc7482300677b,Wedges,Women Shoes --> Footwear,3
+799c73ac-8b0d-41cc-a92f-f210d2dca5da,5f3c4b54619bc7482300677c,Running Shoes,Women Shoes --> Footwear,3
+bd540922-bbb9-4e58-b1aa-e1f684f3db95,5f3c4b54619bc7482300677d,Clogs,Women Shoes --> Footwear,3
+81b17bd3-ce8f-4d9e-a090-b98499ba0724,5f3c4b54619bc7482300677e,Hiking,Women Shoes --> Footwear,3
+bc109bd3-9add-4868-b3f7-7dc902a88c5a,5f3c4b54619bc7482300677f,Waterproof,Women Shoes --> Footwear,3
+4c2168b6-ab2b-4d26-ae34-6e49d2d56b00,5f3c4b54619bc748230067c5,Boat Shoes,Men Shoes --> Footwear,3
+f17f9590-6283-407e-a0db-d71e25f05d94,5f3c4b54619bc748230067c6,Boots,Men Shoes --> Footwear,3
+4570255e-c9ec-4013-88c5-a7348a1cb4be,5f3c4b54619bc748230067c7,Casual Shoes,Men Shoes --> Footwear,3
+df97d158-8a16-4e32-a1a9-5a777ec9516a,5f3c4b54619bc748230067c8,Chukkas,Men Shoes --> Footwear,3
+f6fd059e-f961-4b21-914c-389a98e1da66,5f3c4b54619bc748230067c9,Comfort,Men Shoes --> Footwear,3
+559f46de-779f-4751-9235-d9d47a2b87a4,5f3c4b54619bc748230067ca,Dress Shoes,Men Shoes --> Footwear,3
+28e0c853-4383-4a66-96e2-3c5e04e7d803,5f3c4b54619bc748230067cb,Drivers,Men Shoes --> Footwear,3
+e62519ce-a590-4b04-be9d-3e3d07aedd82,5f3c4b54619bc748230067cc,Loafers,Men Shoes --> Footwear,3
+b0d3a823-c747-425e-aea3-c9cb71a3bd64,5f3c4b54619bc748230067cd,Oxfords,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d487,5f3c4b54619bc748230067ce,Sandals,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d488,5f3c4b54619bc748230067cf,Slides,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d489,5f3c4b54619bc748230067d0,Slip On,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d490,5f3c4b54619bc748230067d1,Slippers,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d491,5f3c4b54619bc748230067d2,Sneakers,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d492,5f3c4b54619bc748230067d3,Waterproof,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d493,5f3c4b54619bc748230067d4,Wing Tip Shoes,Men Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d494,5f3c4b54619bc748230067e9,Girls Shoes,Kids Shoes --> Footwear,3
+88b4755a-8cb8-4a63-842d-5b591324d495,5f3c4b54619bc748230067ea,Boys Shoes,Kids Shoes --> Footwear,3

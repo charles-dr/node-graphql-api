@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "291fb7ef-f964-4fe0-90dc-a4730e93f267",
+    "status": "UPLOADED",
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/toy-1.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/toy-1.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "8aa465b2-d68b-4383-bcd7-9963cdfaa028",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/ticket-1.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/ticket-1.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "60c19954-3be3-4708-a208-ad9255d68627",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/sport-1.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/sport-1.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "18cc6f86-3f66-4814-9ef0-ffc4d0fad1cb",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/skirt.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/skirt.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "38b7ab3d-7342-448d-a21d-fc41439a5b0f",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/shirt-2.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/shirt-2.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "c2ce0830-fb04-453d-945c-df62b1d86e8d",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/shirt-1.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/shirt-1.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "5a0c0dc7-46c6-457e-a703-8f3e11289f30",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/real-estate.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/real-estate.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "6da08802-928c-4fd1-8631-4fb15b2ae12e",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/phone.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/phone.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "bf3e4240-da86-4442-8828-397977b3129b",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/mdi_movie.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/mdi_movie.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "efc43ff6-484c-4686-bbf9-131933ea0542",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/lamp.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/lamp.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "fa38ced9-ab49-4ad0-8851-9bc27e1e355a",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/high-heels.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/high-heels.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "4d880b51-34c6-473f-9b61-d91890f121c8",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/cosmetics.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/cosmetics.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "cd86cbc5-f94d-4526-9307-8b22f495b510",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/car.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/car.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  },
+  {
+    "_id": "3afc29ae-5ee8-4d54-ade8-3ed08e8fb970",
+    "status": "UPLOADED",
+    "forPreview": false,
+    "owner": "27d05590-5322-4a4b-8313-d76a5463e61e",
+    "path": "product-category-icons/adult-sign.png",
+    "url": "https://cdn-stage.shoclef.com/product-category-icons/adult-sign.png",
+    "type": "IMAGE",
+    "size": 100,
+    "mimetype": "image/png"
+  }
+]

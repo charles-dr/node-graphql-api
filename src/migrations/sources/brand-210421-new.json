@@ -1,0 +1,43 @@
+[{
+  "_id": "590cb444-ac5e-4f2e-ba46-d01da96db054",
+  "brandCategories": [],
+  "productCategories": [],
+  "images": [
+    "90404bda-3083-4448-8abd-7c3109f6454e"
+  ],
+  "hashtags": [],
+  "nProducts": 0,
+  "name": "Ralph Lauren",
+  "createdAt": {
+    "$date": "2021-04-21T15:05:34.592Z"
+  },
+  "__v": 0
+},{
+  "_id": "8bb26d4a-6591-4e5e-baa9-473579046aba",
+  "brandCategories": [],
+  "productCategories": [],
+  "images": [
+    "51ea5865-712b-4705-8e9e-55bad754d085"
+  ],
+  "hashtags": [],
+  "nProducts": 0,
+  "name": "Levis",
+  "createdAt": {
+    "$date": "2021-04-21T15:05:34.577Z"
+  },
+  "__v": 0
+},{
+  "_id": "da912e6d-b761-448b-8004-024e9789ab6a",
+  "brandCategories": [],
+  "productCategories": [],
+  "images": [
+    "ffbaae15-f942-4788-a203-353c50ba18c3"
+  ],
+  "hashtags": [],
+  "nProducts": 0,
+  "name": "Cartier",
+  "createdAt": {
+    "$date": "2021-04-21T15:05:34.557Z"
+  },
+  "__v": 0
+}]

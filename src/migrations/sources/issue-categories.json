@@ -1,0 +1,34 @@
+[{
+  "_id": "d2bec658-cfea-49e8-b5bd-01ed85240368",
+  "notifyEmails": [
+    "crystal@aurickproject.com"
+  ],
+  "name": "Product Issue"
+},{
+  "_id": "a121646b-51e3-4e9c-bcd1-03496076d61b",
+  "notifyEmails": [
+    "crystal@aurickproject.com",
+    "bi.wu@aurickproject.com"
+  ],
+  "name": "Shipping Issue"
+},{
+  "_id": "7910fc7f-00a2-4cda-905d-e1c191deaf80",
+  "notifyEmails": [
+    "bi.wu@aurickproject.com"
+  ],
+  "name": "Gerneral Information"
+},{
+  "_id": "678287cb-2076-466c-8157-75f5a38efad7",
+  "notifyEmails": [
+    "crystal@aurickproject.com",
+    "bi.wu@aurickproject.com"
+  ],
+  "name": "Billing Issue"
+},{
+  "_id": "a48cd45d-acde-4b1c-b35b-cf6d74646352",
+  "notifyEmails": [
+    "crystal@aurickproject.com",
+    "bi.wu@aurickproject.com"
+  ],
+  "name": "Engineering Bugs Report an Issue"
+}]

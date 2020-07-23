@@ -1,0 +1,40 @@
+version: '3.2'
+services:
+
+  mongo:
+    image: mongo:4.0-xenial
+    volumes:
+      - api_mongo_data:/data/db
+    ports:
+      - 27000:27017
+
+  redis:
+    image: redis:5.0-alpine
+
+  app:
+    container_name: shoclef_api
+    image: node:8.16-alpine
+    working_dir: /home/node/app
+    volumes:
+      - ./:/home/node/app
+    ports:
+      - 700:4000
+      - 800:9229
+    depends_on:
+      - mongo
+      - redis
+    links:
+      - mongo
+      - redis
+    command: npm run dev
+    env_file:
+      .env
+
+volumes:
+  api_mongo_data:
+    external: true
+
+networks:
+  default:
+    external:
+      name: shoclef_bridge

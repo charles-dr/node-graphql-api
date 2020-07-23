@@ -1,0 +1,14 @@
+{
+  "drawMenu": {
+    "profile": "Profile",
+    "buyerDashboard": "Buyer Dashboard",
+    "orders": "Orders",
+    "sellerDashboard": "Seller Dashboard",
+    "manageProducts": "Manage Products",
+    "manageSellerInfo": "Manage Seller Info",
+    "settings": "Settings",
+    "termsConditions": "Terms & Conditions",
+    "customerService": "Customer Service",
+    "logout": "Log Out"
+  }
+}

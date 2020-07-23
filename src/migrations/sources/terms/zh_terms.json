@@ -1,0 +1,225 @@
+{
+	"prefix": "https://example.com/terms_conditions/zh/",
+	"terms_conditions": [
+		{
+			"english_title": "Acceptible Use Policy",
+			"title": "可接受的使用政策",
+			"html": "Acceptible Use Policy.html"
+		},
+		{
+			"english_title": "Advertising Policy",
+			"title": "广告政策",
+			"html": "Advertising Policy.html"
+		},
+		{
+			"english_title": "Animal Policy",
+			"title": "动物政策",
+			"html": "Animal Policy.html"
+		},
+		{
+			"english_title": "Antidiscrimination Policy",
+			"title": "反歧视和反欺凌",
+			"html": "Antidiscrimination Policy.html"
+		},
+		{
+			"english_title": "Brands policy",
+			"title": "品牌政策",
+			"html": "Brands policy.html"
+		},
+		{
+			"english_title": "Cancellations on orders Policy",
+			"title": "订单取消政策",
+			"html": "Cancellations on orders Policy.html"
+		},
+		{
+			"english_title": "Cancellations Policy",
+			"title": "取消政策",
+			"html": "Cancellations Policy.html"
+		},
+		{
+			"english_title": "Code of Conduct Policy",
+			"title": "行为准则政策",
+			"html": "Code of Conduct Policy.html"
+		},
+		{
+			"english_title": "Communication Policy",
+			"title": "沟通政策",
+			"html": "Communication Policy.html"
+		},
+		{
+			"english_title": "Connect Service Refund Policy",
+			"title": "连接服务退款政策",
+			"html": "Connect Service Refund Policy.html"
+		},
+		{
+			"english_title": "Cookie Policy",
+			"title": "饼干政策",
+			"html": "Cookie Policy.html"
+		},
+		{
+			"english_title": "Copyright Policy",
+			"title": "版权政策",
+			"html": "Copyright Policy.html"
+		},
+		{
+			"english_title": "Create Account Policy",
+			"title": "创建帐户策略",
+			"html": "Create Account Policy.html"
+		},
+		{
+			"english_title": "Data Request Policy",
+			"title": "数据请求策略",
+			"html": "Data Request Policy.html"
+		},
+		{
+			"english_title": "Deliveries Policy",
+			"title": "交货政策",
+			"html": "Deliveries Policy.html"
+		},
+		{
+			"english_title": "Deliveries",
+			"title": "交付",
+			"html": "Deliveries.html"
+		},
+		{
+			"english_title": "EULA",
+			"title": "EULA",
+			"html": "EULA.html"
+		},
+		{
+			"english_title": "Feedback Policy",
+			"title": "反馈策略",
+			"html": "Feedback Policy.html"
+		},
+		{
+			"english_title": "Firearms Policy",
+			"title": "火器政策",
+			"html": "Firearms Policy.html"
+		},
+		{
+			"english_title": "Fraud Policy",
+			"title": "欺诈政策",
+			"html": "Fraud Policy.html"
+		},
+		{
+			"english_title": "Hacked Fake Account. Policy",
+			"title": "黑客假帐户政策",
+			"html": "Hacked Fake Account. Policyodt.html"
+		},
+		{
+			"english_title": "Help Center. Policy",
+			"title": "帮助中心。政策",
+			"html": "Help Center. Policy.html"
+		},
+		{
+			"english_title": "Intellectual Property Rights Complaints Policy",
+			"title": "知识产权投诉政策",
+			"html": "Intellectual Property Rights Complaints Policy.html"
+		},
+		{
+			"english_title": "Limits of liability Policy",
+			"title": "责任限额政策",
+			"html": "Limits of liability Policy.html"
+		},
+		{
+			"english_title": "New Fees Policy",
+			"title": "新收费政策",
+			"html": "New Fees Policy.html"
+		},
+		{
+			"english_title": "Pricing Policy",
+			"title": "定价政策",
+			"html": "Pricing Policy.html"
+		},
+		{
+			"english_title": "Privacy Policy",
+			"title": "隐私政策",
+			"html": "Privacy Policy.html"
+		},
+		{
+			"english_title": "Product listing policy",
+			"title": "产品上市政策",
+			"html": "Product listing policy.html"
+		},
+		{
+			"english_title": "Products Return Policy",
+			"title": "产品退货政策",
+			"html": "Products Return Policy.html"
+		},
+		{
+			"english_title": "Promotion Policy",
+			"title": "促销政策",
+			"html": "Promotion Policy.html"
+		},
+		{
+			"english_title": "Promotion Terms and Conditions",
+			"title": "促销条款和条件",
+			"html": "Promotion Terms and Conditions.html"
+		},
+		{
+			"english_title": "Refund Policy",
+			"title": "退款政策",
+			"html": "Refund Policy.html"
+		},
+		{
+			"english_title": "Report Abuse",
+			"title": "报告滥用",
+			"html": "Report Abuse.html"
+		},
+		{
+			"english_title": "Rules",
+			"title": "规则",
+			"html": "Rules.html"
+		},
+		{
+			"english_title": "Safety",
+			"title": "安全",
+			"html": "Safety.html"
+		},
+		{
+			"english_title": "Social Pages Terms",
+			"title": "社交页面条款",
+			"html": "Social Pages Terms.html"
+		},
+		{
+			"english_title": "Suspicious Messages",
+			"title": "可疑消息",
+			"html": "Suspicious Messages.html"
+		},
+		{
+			"english_title": "Terms of Services",
+			"title": "服务条款",
+			"html": "Terms of Services.html"
+		},
+		{
+			"english_title": "Terms of Use",
+			"title": "使用条款",
+			"html": "Terms of Use.html"
+		},
+		{
+			"english_title": "Tips",
+			"title": "技巧",
+			"html": "Tips.html"
+		},
+		{
+			"english_title": "Trade Rules",
+			"title": "交易规则",
+			"html": "Trade Rules.html"
+		},
+		{
+			"english_title": "User Generated Content",
+			"title": "用户生成的内容",
+			"html": "User Generated Content.html"
+		},
+		{
+			"english_title": "WEBSITE RESPONSIBLE DISCLOSURE",
+			"title": "网站负责披露",
+			"html": "WEBSITE RESPONSIBLE DISCLOSURE.html"
+		},
+		{
+			"english_title": "Zero Tolerance",
+			"title": "零容忍",
+			"html": "Zero Tolerance.html"
+		}
+	]
+}

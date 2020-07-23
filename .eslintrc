@@ -1,0 +1,11 @@
+{
+    "extends": "airbnb",
+    "env": {
+      "jest": true
+    },
+    "rules": {
+		"linebreak-style": 0  ,
+      "no-underscore-dangle": "off",
+      "import/no-dynamic-require": "off"
+    }
+}

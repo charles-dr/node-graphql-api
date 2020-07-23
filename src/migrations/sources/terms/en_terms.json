@@ -1,0 +1,225 @@
+{
+	"prefix": "https://example.com/terms_conditions/en/",
+	"terms_conditions": [
+		{
+			"english_title": "Acceptible Use Policy",
+			"title": "Acceptible Use Policy",
+			"html": "Acceptible Use Policy.html"
+		},
+		{
+			"english_title": "Advertising Policy",
+			"title": "Advertising Policy",
+			"html": "Advertising Policy.html"
+		},
+		{
+			"english_title": "Animal Policy",
+			"title": "Animal Policy",
+			"html": "Animal Policy.html"
+		},
+		{
+			"english_title": "Antidiscrimination Policy",
+			"title": "Antidiscrimination Policy",
+			"html": "Antidiscrimination Policy.html"
+		},
+		{
+			"english_title": "Brands policy",
+			"title": "Brands policy",
+			"html": "Brands policy.html"
+		},
+		{
+			"english_title": "Cancellations on orders Policy",
+			"title": "Cancellations on orders Policy",
+			"html": "Cancellations on orders Policy.html"
+		},
+		{
+			"english_title": "Cancellations Policy",
+			"title": "Cancellations Policy",
+			"html": "Cancellations Policy.html"
+		},
+		{
+			"english_title": "Code of Conduct Policy",
+			"title": "Code of Conduct Policy",
+			"html": "Code of Conduct Policy.html"
+		},
+		{
+			"english_title": "Communication Policy",
+			"title": "Communication Policy",
+			"html": "Communication Policy.html"
+		},
+		{
+			"english_title": "Connect Service Refund Policy",
+			"title": "Connect Service Refund Policy",
+			"html": "Connect Service Refund Policy.html"
+		},
+		{
+			"english_title": "Cookie Policy",
+			"title": "Cookie Policy",
+			"html": "Cookie Policy.html"
+		},
+		{
+			"english_title": "Copyright Policy",
+			"title": "Copyright Policy",
+			"html": "Copyright Policy.html"
+		},
+		{
+			"english_title": "Create Account Policy",
+			"title": "Create Account Policy",
+			"html": "Create Account Policy.html"
+		},
+		{
+			"english_title": "Data Request Policy",
+			"title": "Data Request Policy",
+			"html": "Data Request Policy.html"
+		},
+		{
+			"english_title": "Deliveries Policy",
+			"title": "Deliveries Policy",
+			"html": "Deliveries Policy.html"
+		},
+		{
+			"english_title": "Deliveries",
+			"title": "Deliveries",
+			"html": "Deliveries.html"
+		},
+		{
+			"english_title": "EULA",
+			"title": "EULA",
+			"html": "EULA.html"
+		},
+		{
+			"english_title": "Feedback Policy",
+			"title": "Feedback Policy",
+			"html": "Feedback Policy.html"
+		},
+		{
+			"english_title": "Firearms Policy",
+			"title": "Firearms Policy",
+			"html": "Firearms Policy.html"
+		},
+		{
+			"english_title": "Fraud Policy",
+			"title": "Fraud Policy",
+			"html": "Fraud Policy.html"
+		},
+		{
+			"english_title": "Hacked Fake Account. Policyodt",
+			"title": "Hacked Fake Account. Policyodt",
+			"html": "Hacked Fake Account. Policyodt.html"
+		},
+		{
+			"english_title": "Help Center. Policy",
+			"title": "Help Center. Policy",
+			"html": "Help Center. Policy.html"
+		},
+		{
+			"english_title": "Intellectual Property Rights Complaints Policy",
+			"title": "Intellectual Property Rights Complaints Policy",
+			"html": "Intellectual Property Rights Complaints Policy.html"
+		},
+		{
+			"english_title": "Limits of liability Policy",
+			"title": "Limits of liability Policy",
+			"html": "Limits of liability Policy.html"
+		},
+		{
+			"english_title": "New Fees Policy",
+			"title": "New Fees Policy",
+			"html": "New Fees Policy.html"
+		},
+		{
+			"english_title": "Pricing Policy",
+			"title": "Pricing Policy",
+			"html": "Pricing Policy.html"
+		},
+		{
+			"english_title": "Privacy Policy",
+			"title": "Privacy Policy",
+			"html": "Privacy Policy.html"
+		},
+		{
+			"english_title": "Product listing policy",
+			"title": "Product listing policy",
+			"html": "Product listing policy.html"
+		},
+		{
+			"english_title": "Products Return Policy",
+			"title": "Products Return Policy",
+			"html": "Products Return Policy.html"
+		},
+		{
+			"english_title": "Promotion Policy",
+			"title": "Promotion Policy",
+			"html": "Promotion Policy.html"
+		},
+		{
+			"english_title": "Promotion Terms and Conditions",
+			"title": "Promotion Terms and Conditions",
+			"html": "Promotion Terms and Conditions.html"
+		},
+		{
+			"english_title": "Refund Policy",
+			"title": "Refund Policy",
+			"html": "Refund Policy.html"
+		},
+		{
+			"english_title": "Report Abuse",
+			"title": "Report Abuse",
+			"html": "Report Abuse.html"
+		},
+		{
+			"english_title": "Rules",
+			"title": "Rules",
+			"html": "Rules.html"
+		},
+		{
+			"english_title": "Safety",
+			"title": "Safety",
+			"html": "Safety.html"
+		},
+		{
+			"english_title": "Social Pages Terms",
+			"title": "Social Pages Terms",
+			"html": "Social Pages Terms.html"
+		},
+		{
+			"english_title": "Suspicious Messages",
+			"title": "Suspicious Messages",
+			"html": "Suspicious Messages.html"
+		},
+		{
+			"english_title": "Terms of Services",
+			"title": "Terms of Services",
+			"html": "Terms of Services.html"
+		},
+		{
+			"english_title": "Terms of Use",
+			"title": "Terms of Use",
+			"html": "Terms of Use.html"
+		},
+		{
+			"english_title": "Tips",
+			"title": "Tips",
+			"html": "Tips.html"
+		},
+		{
+			"english_title": "Trade Rules",
+			"title": "Trade Rules",
+			"html": "Trade Rules.html"
+		},
+		{
+			"english_title": "User Generated Content",
+			"title": "User Generated Content",
+			"html": "User Generated Content.html"
+		},
+		{
+			"english_title": "WEBSITE RESPONSIBLE DISCLOSURE",
+			"title": "WEBSITE RESPONSIBLE DISCLOSURE",
+			"html": "WEBSITE RESPONSIBLE DISCLOSURE.html"
+		},
+		{
+			"english_title": "Zero Tolerance",
+			"title": "Zero Tolerance",
+			"html": "Zero Tolerance.html"
+		}
+	]
+}

@@ -1,0 +1,225 @@
+{
+	"prefix": "https://example.com/terms_conditions/in/",
+	"terms_conditions": [
+		{
+			"english_title": "Acceptible Use Policy",
+			"title": "Kebijakan Penggunaan yang Dapat Diterima",
+			"html": "Acceptible Use Policy.html"
+		},
+		{
+			"english_title": "Advertising Policy",
+			"title": "Kebijakan Periklanan",
+			"html": "Advertising Policy.html"
+		},
+		{
+			"english_title": "Animal Policy",
+			"title": "Kebijakan Hewan",
+			"html": "Animal Policy.html"
+		},
+		{
+			"english_title": "Antidiscrimination Policy",
+			"title": "Kebijakan Antidiskriminasi",
+			"html": "Antidiscrimination Policy.html"
+		},
+		{
+			"english_title": "Brands policy",
+			"title": "Kebijakan merek",
+			"html": "Brands policy.html"
+		},
+		{
+			"english_title": "Cancellations on orders Policy",
+			"title": "Pembatalan atas Kebijakan pesanan",
+			"html": "Cancellations on orders Policy.html"
+		},
+		{
+			"english_title": "Cancellations Policy",
+			"title": "Kebijakan Pembatalan",
+			"html": "Cancellations Policy.html"
+		},
+		{
+			"english_title": "Code of Conduct Policy",
+			"title": "Kebijakan Kode Etik",
+			"html": "Code of Conduct Policy.html"
+		},
+		{
+			"english_title": "Communication Policy",
+			"title": "Kebijakan Komunikasi",
+			"html": "Communication Policy.html"
+		},
+		{
+			"english_title": "Connect Service Refund Policy",
+			"title": "Kebijakan Pengembalian Dana Layanan Connect",
+			"html": "Connect Service Refund Policy.html"
+		},
+		{
+			"english_title": "Cookie Policy",
+			"title": "Kebijakan Cookie",
+			"html": "Cookie Policy.html"
+		},
+		{
+			"english_title": "Copyright Policy",
+			"title": "Kebijakan Hak Cipta",
+			"html": "Copyright Policy.html"
+		},
+		{
+			"english_title": "Create Account Policy",
+			"title": "Membuat Kebijakan Akun",
+			"html": "Create Account Policy.html"
+		},
+		{
+			"english_title": "Data Request Policy",
+			"title": "Kebijakan Permintaan Data",
+			"html": "Data Request Policy.html"
+		},
+		{
+			"english_title": "Deliveries Policy",
+			"title": "Kebijakan Pengiriman",
+			"html": "Deliveries Policy.html"
+		},
+		{
+			"english_title": "Deliveries",
+			"title": "Pengiriman",
+			"html": "Deliveries.html"
+		},
+		{
+			"english_title": "EULA",
+			"title": "EULA",
+			"html": "EULA.html"
+		},
+		{
+			"english_title": "Feedback Policy",
+			"title": "Kebijakan Umpan Balik",
+			"html": "Feedback Policy.html"
+		},
+		{
+			"english_title": "Firearms Policy",
+			"title": "Kebijakan Senjata Api",
+			"html": "Firearms Policy.html"
+		},
+		{
+			"english_title": "Fraud Policy",
+			"title": "Kebijakan Penipuan",
+			"html": "Fraud Policy.html"
+		},
+		{
+			"english_title": "Hacked Fake Account. Policyodt",
+			"title": "Kebijakan Akun Palsu yang Diretas",
+			"html": "Hacked Fake Account. Policyodt.html"
+		},
+		{
+			"english_title": "Help Center. Policy",
+			"title": "Kebijakan Pusat Bantuan",
+			"html": "Help Center. Policy.html"
+		},
+		{
+			"english_title": "Intellectual Property Rights Complaints Policy",
+			"title": "Kebijakan Pengaduan Hak Kekayaan Intelektual",
+			"html": "Intellectual Property Rights Complaints Policy.html"
+		},
+		{
+			"english_title": "Limits of liability Policy",
+			"title": "Kebijakan Batas Kewajiban",
+			"html": "Limits of liability Policy.html"
+		},
+		{
+			"english_title": "New Fees Policy",
+			"title": "Kebijakan Biaya Baru",
+			"html": "New Fees Policy.html"
+		},
+		{
+			"english_title": "Pricing Policy",
+			"title": "Kebijakan Harga",
+			"html": "Pricing Policy.html"
+		},
+		{
+			"english_title": "Privacy Policy",
+			"title": "Kebijakan Privasi",
+			"html": "Privacy Policy.html"
+		},
+		{
+			"english_title": "Product listing policy",
+			"title": "Kebijakan daftar produk",
+			"html": "Product listing policy.html"
+		},
+		{
+			"english_title": "Products Return Policy",
+			"title": "Kebijakan Pengembalian Produk",
+			"html": "Products Return Policy.html"
+		},
+		{
+			"english_title": "Promotion Policy",
+			"title": "Kebijakan Promosi",
+			"html": "Promotion Policy.html"
+		},
+		{
+			"english_title": "Promotion Terms and Conditions",
+			"title": "Syarat dan Ketentuan Promosi",
+			"html": "Promotion Terms and Conditions.html"
+		},
+		{
+			"english_title": "Refund Policy",
+			"title": "Kebijakan Pengembalian Dana",
+			"html": "Refund Policy.html"
+		},
+		{
+			"english_title": "Report Abuse",
+			"title": "Laporkan Penyalahgunaan",
+			"html": "Report Abuse.html"
+		},
+		{
+			"english_title": "Rules",
+			"title": "Aturan",
+			"html": "Rules.html"
+		},
+		{
+			"english_title": "Safety",
+			"title": "Keselamatan",
+			"html": "Safety.html"
+		},
+		{
+			"english_title": "Social Pages Terms",
+			"title": "Ketentuan Halaman Sosial",
+			"html": "Social Pages Terms.html"
+		},
+		{
+			"english_title": "Suspicious Messages",
+			"title": "Pesan mencurigakan",
+			"html": "Suspicious Messages.html"
+		},
+		{
+			"english_title": "Terms of Services",
+			"title": "Ketentuan Layanan",
+			"html": "Terms of Services.html"
+		},
+		{
+			"english_title": "Terms of Use",
+			"title": "Ketentuan Penggunaan",
+			"html": "Terms of Use.html"
+		},
+		{
+			"english_title": "Tips",
+			"title": "Tips",
+			"html": "Tips.html"
+		},
+		{
+			"english_title": "Trade Rules",
+			"title": "Aturan Perdagangan",
+			"html": "Trade Rules.html"
+		},
+		{
+			"english_title": "User Generated Content",
+			"title": "Konten Buatan Pengguna",
+			"html": "User Generated Content.html"
+		},
+		{
+			"english_title": "WEBSITE RESPONSIBLE DISCLOSURE",
+			"title": "PENGUNGKAPAN YANG BERTANGGUNG JAWAB DI SITUS WEB",
+			"html": "WEBSITE RESPONSIBLE DISCLOSURE.html"
+		},
+		{
+			"english_title": "Zero Tolerance",
+			"title": "Toleransi Nol",
+			"html": "Zero Tolerance.html"
+		}
+	]
+}

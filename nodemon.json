@@ -1,0 +1,6 @@
+{
+    "verbose": true,
+    "watch": ["src", "config", ".env", "server.js"],
+    "ext": "js",
+    "ignore": ["*.test.js", "fixtures/*", "tests/*"]
+}

@@ -1,0 +1,13 @@
+tmp
+node_modules
+credentials
+.env
+fixtures-lock.json
+.Ds_Store
+yarn-lock.json
+Readme-self.md
+package-lock.json
+Note.md
+.idea
+build/
+.vscode-upload.json

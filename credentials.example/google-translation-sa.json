@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "streambliss-test-enviornment",
+  "private_key_id": "d297a8010ebeb33d9bc96cf54e65a5991c343c1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuACAmOY/Lur47\npd9jRgth9laZomPn6MEc9PdtUH5JZrCf3fk3twAwnATUCP7Oyw4LT62RUhlYtR06\n/z6IBj6FvrYEH9X3UKIoI/BtdyOllaM7YpaV9/7DMciR/cAppf916UL2ZsfzvxA7\nILvKfnn8neVKI+Q+/LlMiJnj3E5F0StWPJnq+/1Q0EzYTq0QXwWGusoSgfa5ESmy\nIV7LLiXcsQSMxqxRONbhhIoFf7izv9ZZ8vVht+yMLJFIJqbzNfXi0xdJnS7Ggije\nMQhwsarvKY1KOWiiveAAi6dqHeBdXBn9VsDFDFmqHs/+Wwxs0b7FsN6yYycXujWa\n+Vz7jnZ1AgMBAAECggEABKYeNcc970yK/p786/MYJMLnJ22uS6jtV++3mKUY6q8i\nsvLEUNfD2oignGWtIStNscGsOoC+Cp+0KzpcmlfIXdxtkoijN9tgqb/kEZioTClG\nVjTZHyKkHOT8neHwu2wi+iyETH8MgpetQFcsjUl5yuURFj0FQSWRcdkIe40MTlMw\nCuIU1Nu3Eov9BEGipMSz74WpGKx08emE31Ruc9KPKocYsPRn9pbVkLx3J50T1jpo\nNycqcPyZ8afCzps7MoavWz8yTNjbIT6eUnvtJK/C4xuUjtfDuA7LgVBHxKSl8RES\n5JKRiSiAi2i8L+Zbn2fP93GVENxvLH9RRhW4cGgntQKBgQDlinP0ST4IdpQ1apD7\nSk5xggwgSU2YESanE70roylpG9x8zf/X8Ifbw6YHNyAg2JAvSkUbkKK5ZffAecNP\nHGBw90BPwb7SRaZaJTqjIM190biGhYjMIFTmPHyaTwepqHuvZqRgpUKUA17xS7ip\nmlwkxGbjSBqJ+sOe19meQi5hHwKBgQDCDrnsHC31G0kq1nj+eIbmJqkEYeerW61I\nc81Z3N5vG2/pQSy+mCGuIYUNGhJ6kjISuvjpcCT/8OK6h57gSAMBWSTmz8b47Mrp\nUPn1hiVx2WOf7SQHaL/iNiC6zh+hnzyHlqEbmGZAeWLMVGaDUEadxNPGt7Ka7htR\nsipXVy/R6wKBgEoGR3S9dgrmqs87KbxQb1G9vclfum1TAqMZA4WiHcWu3YFGMb7i\n6/1ccBudlHfjP0Rw8C5+i2u8zZQ98FV/8j4cDppqAe7v1UD3Bpz7BCoSSy7eu4oQ\n1zBUy148JF17Xz/mmxYr1XfESocIg2n2xMZ6rC+Z3i0nOJTuSVj3QNvDAoGAF/In\nQRptFVzLl4ylm4kV5FqK6q6GHuAOLu2TPm6ByCYTli3jrpUpOsqKF4bLFvLpWORX\niL684hRAdhH8KeLY9Bai9hRXkinuFAJZBdIK1tSjdX2Wv49OdkSFn2eGAbSbjIOq\n17PjkjsoVNxpVfTW8ery0weh83pERr18ehCZJwcCgYBhSU8H4sVnPZDs4htczsy0\n+CQ7VFjkbYumR7LWilZOcxL4g/+wBBlTTKMrlBfvr/JA6umfAKQEGi6TEWyRtiLP\nx+DZ4hoZrcoypPR3BOxfMzq3Dji5blMwxCng11y2kMf0EeaqvDR3K9jspsFHeiXm\nRo1UUaOwPfYzC83a3WN3OA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation-api@streambliss-test-enviornment.iam.gserviceaccount.com",
+  "client_id": "104931844508047898740",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-api%40streambliss-test-enviornment.iam.gserviceaccount.com"
+}
